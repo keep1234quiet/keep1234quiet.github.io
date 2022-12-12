@@ -1,0 +1,31 @@
+<svg xml:space="preserve" style="enable-background:new 0 0 1024 1024;" viewBox="0 0 1024 1024" y="0px" x="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" id="图层_1" version="1.1">
+<style type="text/css">
+	.st0{fill:#C19161;stroke:#26282B;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#5BD6B3;stroke:#26282B;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#52CE90;stroke:#26282B;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#7FEF9F;stroke:#26282B;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:#FFEF7B;stroke:#26282B;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:#FF9C97;stroke:#26282B;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st6{fill:#C2B3FF;stroke:#26282B;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<path d="M540.92,1010.59h-57.83c-16.39,0-29.68-13.29-29.68-29.68V756.89h117.2v224.02
+		C570.6,997.3,557.31,1010.59,540.92,1010.59z" class="st0"></path>
+	<path d="M512,384.02L165.37,787.67c-14.58,16.98-2.52,43.25,19.87,43.25h653.53c22.38,0,34.45-26.26,19.87-43.25
+		L512,384.02z" class="st1"></path>
+	<path d="M512,258.37l-252.25,270.8c-15.6,16.75-3.72,44.03,19.16,44.03h466.18c22.88,0,34.76-27.29,19.16-44.03
+		L512,258.37z" class="st2"></path>
+	<path d="M512,85.6L360.28,293.14c-12.65,17.3-0.29,41.64,21.14,41.64h261.16c21.43,0,33.79-24.34,21.14-41.64L512,85.6
+		z" class="st3"></path>
+	<path d="M541.04,54.27l37.87,4.65c10.75,1.32,15.32,14.39,7.73,22.12l-26.73,27.23l7.28,37.46
+		c2.07,10.63-8.95,19.01-18.65,14.19l-34.16-17.01l-33.37,18.5c-9.47,5.25-20.85-2.64-19.26-13.35l5.62-37.74l-27.91-26.02
+		c-7.92-7.39-3.93-20.65,6.75-22.44l37.63-6.32l16.13-34.58c4.58-9.81,18.42-10.12,23.43-0.52L541.04,54.27z" class="st4"></path>
+	<circle r="37.04" cy="498.56" cx="633.76" class="st5"></circle>
+	<circle r="40.02" cy="720.26" cx="748.79" class="st5"></circle>
+	<circle r="32.41" cy="458.54" cx="426.55" class="st4"></circle>
+	<circle r="30.56" cy="240.75" cx="435.3" class="st6"></circle>
+	<circle r="23.15" cy="275" cx="570.6" class="st4"></circle>
+	<circle r="46.3" cy="680.24" cx="284.38" class="st5"></circle>
+	<circle r="50.93" cy="748.76" cx="516.78" class="st6"></circle>
+</g>
+</svg>

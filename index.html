@@ -1,38 +1,40 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-  <title>文章列表</title>
-  <style>
-    li {
-      width: 300px;
-      margin: 10px;
-      padding: 10px;
-      border: 1px solid #ccc;
-      border-radius: 5px;
-      box-shadow: 2px 2px 2px #ccc;
-    }
-  </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        .card {
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            transition: 0.3s;
+            width: 20%;
+            border-radius: 5px;
+        }
+
+        .card:hover {
+            box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+        }
+
+        img {
+            border-radius: 5px 5px 0 0;
+        }
+
+        .container {
+            padding: 2px 16px;
+        }
+    </style>
 </head>
+
 <body>
-  <h1>文章列表</h1>
-  <ul>
-    <li>
-      <h2>文章标题1</h2>
-      <p>发表日期：2022-12-12</p>
-      <p>作者：张三</p>
-      <p>标签：JavaScript, HTML, CSS</p>
-    </li>
-    <li>
-      <h2>文章标题2</h2>
-      <p>发表日期：2022-12-11</p>
-      <p>作者：李四</p>
-      <p>标签：JavaScript, WebAssembly</p>
-    </li>
-  </ul>
-  <div style="width: 60%; margin: 5px; height: auto; border: 1px solid; border-image: linear-gradient(to right, red, green);">
-    <h1>标题</h1>
-    <p>作者: 某某某</p>
-    <p>发布日期: 2021年12月12日</p>
-  </div>  
+
+    <div class="card">
+        <img src="statics/img/svg/圣诞树.svg" alt="Avatar" style="width:100%">
+        <div class="container">
+            <h4><b>K4Q</b></h4>
+            <p>Wait for publish...</p>
+        </div>
+    </div>
+
 </body>
+
 </html>
